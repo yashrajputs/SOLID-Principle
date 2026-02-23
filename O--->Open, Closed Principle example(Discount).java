@@ -1,3 +1,4 @@
+//this will wrong way to wite 
 public class DiscountService{
   double calculateDiscount(String type){
     if(type.equals("seasonal")){
